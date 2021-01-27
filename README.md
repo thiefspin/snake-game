@@ -9,4 +9,4 @@ To run the application execute the following command:
 * brew install llvm bdw-gc sdl2 (on MacOS)
 
 ### Preview
-![alt text](https://github.com/thiefspin/snake-game/blob/master/preview.png?raw=true)
+![alt text](https://github.com/thiefspin/snake-game/blob/master/img/preview.png?raw=true)
