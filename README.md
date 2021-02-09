@@ -10,3 +10,5 @@ To run the application execute the following command:
 
 ### Preview
 ![alt text](https://github.com/thiefspin/snake-game/blob/master/img/preview.png?raw=true)
+
+
